@@ -1,0 +1,6 @@
+p = mat + 1; >>> p recebe o endereço da posição 1 de mat apartir do 0. (Válida)
+
+p = mat++; p = ++mat; >>> ambas dão o mesmo erro "lvalue required as increment 
+operand", mat tem um endereço que é fixo. Ou seja, não são válidas.
+
+x = (*mat)++; >> x armazena o valor da posição zero de mat. (Válida)

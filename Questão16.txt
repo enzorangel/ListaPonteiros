@@ -1,0 +1,4 @@
+Usando a biblioteca time.h pudemos usar a função clock()
+
+tempo na questão 14: 4107.00000ms
+tempo na questão 15: 2615.00000ms
