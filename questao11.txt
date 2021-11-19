@@ -1,0 +1,8 @@
+aloha[2] = value;        válido!!!
+scanf("%f", &aloha);     inválida!!!
+aloha = value";          inválida!!!
+printf("%f", aloha);     inválida!!!
+coisas[4][4] = aloha[3]; válida!!!
+coisas[5] = aloha;       inválida!!!
+pf = value;              inválida!!!
+pf = aloha;              válida!!!

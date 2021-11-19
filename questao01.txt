@@ -1,0 +1,7 @@
+Supondo que a variável i ocupe a posição 30 na mémoria e a variável j ocupe a posição 20, as saídas serão:
+
+Operação--------Saída
+p == &i;     --> true
+*p - *q;     --> -2
+**&p;        --> 3
+3-*p/(*q)+7; --> 10
